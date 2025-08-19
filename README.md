@@ -1,47 +1,41 @@
-# 🐍 Python Guide
+# Python Guide
 
-<p align="center">
-  <img src="https://www.python.org/static/community_logos/python-logo.png" width="300" alt="Python Logo"/>
-</p>
+## Overview
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Welcome+to+the+Ultimate+Python+Guide!;Learn+Python+from+Scratch+to+Pro!;Practice+%7C+Projects+%7C+Fun+🚀" alt="Typing SVG"/>
-</p>
-
-<h3 align="center">
-  <b>Your Complete Handbook to Learn Python from Basics to Advanced 🚀</b>
-</h3>
-
-<p align="center">
-  <sub>✨ Beginner Friendly • ⚡ Hands-on Examples • 🏆 Projects & Exercises</sub>
-</p>
+This repository is a step-by-step handbook for learning Python.
+It is designed for beginners who want to start from scratch and for learners aiming to understand advanced concepts through practical examples and projects.
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/github/stars/rishabhkumaar/python-guide?style=social" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/rishabhkumaar/python-guide?style=social" alt="Forks"/>
-  <img src="https://komarev.com/ghpvc/?username=rishabhkumaar&label=Views&color=0e75b6&style=flat" alt="Views"/>
-  <img src="https://img.shields.io/github/license/rishabhkumaar/python-guide" alt="License"/>
-</p>
+## Quick Navigation
+
+* [Overview](#overview)
+* [Contents](#contents)
+* [Getting Started](#getting-started)
+* [Requirements](#requirements)
+* [Roadmap](#roadmap)
+* [Contribution](#contribution)
+* [Author](#author)
+* [License](#license)
 
 ---
 
-## 📖 Contents
+## Contents
 
-* ✔️ **Basics** → Syntax, Variables, Data Types, Operators
-* ✔️ **Control Flow** → Loops, Conditionals, Functions
-* ✔️ **Data Structures** → Lists, Tuples, Dictionaries, Sets
-* ✔️ **Modules & Packages**
-* ✔️ **Object-Oriented Programming (OOP)**
-* ✔️ **Error & File Handling**
-* ✔️ **Advanced Topics** → Decorators, Generators, Iterators
-* ✔️ **Practice Zone** → Mini Projects & Exercises
+* **Basics** — Syntax, Variables, Data Types, Operators
+* **Control Flow** — Conditionals, Loops, Functions
+* **Data Structures** — Lists, Tuples, Dictionaries, Sets
+* **Modules & Packages** — Organizing and reusing code
+* **Object-Oriented Programming** — Classes, Objects, Inheritance
+* **Error & File Handling** — Exceptions, Files, Context Managers
+* **Advanced Topics** — Decorators, Generators, Iterators
+* **Practice Zone** — Exercises and Mini Projects
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
+
+Clone the repository and run Python files locally:
 
 ```bash
 git clone https://github.com/rishabhkumaar/python-guide.git
@@ -51,80 +45,97 @@ python filename.py
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
-* Python **3.x**
-* Any IDE/Text Editor → *VS Code, PyCharm, Jupyter Notebook*
+* Python 3.x
+* A text editor or IDE (e.g., VS Code, PyCharm, Jupyter Notebook)
 
 ---
 
-## 🎨 Tech Stack
+## Roadmap
+
+1. Python Basics
+2. Control Flow
+3. Data Structures
+4. Modules and Packages
+5. Object-Oriented Programming
+6. Error and File Handling
+7. Advanced Topics
+8. Projects and Exercises
+
+---
+
+## Contribution
+
+Contributions are encouraged.
+
+1. Fork this repository
+2. Create a feature branch (`git checkout -b feature-name`)
+3. Commit your changes (`git commit -m "Added new topic/example"`)
+4. Push your branch (`git push origin feature-name`)
+5. Open a Pull Request
+
+---
+
+## Learning Resources
+
+* [Official Python Documentation](https://docs.python.org/3/)
+* [Python Tutorial - W3Schools](https://www.w3schools.com/python/)
+* [Real Python](https://realpython.com/)
+* [GeeksforGeeks Python Programming](https://www.geeksforgeeks.org/python-programming-language/)
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+* [Python Package Index (PyPI)](https://pypi.org/)
+* [PEP 8 - Style Guide for Python Code](https://peps.python.org/pep-0008/)
+
+---
+
+## Recommended Learning Path
+
+1. **Fundamentals**
+
+   * Start with [W3Schools Python Tutorial](https://www.w3schools.com/python/) for quick basics.
+   * Practice simple programs (print statements, variables, loops).
+
+2. **Official Documentation**
+
+   * Go through the [Python Docs](https://docs.python.org/3/tutorial/index.html) for in-depth understanding.
+   * Learn standard libraries like `math`, `datetime`, and `os`.
+
+3. **Style and Best Practices**
+
+   * Read [PEP 8](https://peps.python.org/pep-0008/) to understand coding standards.
+   * Start writing cleaner, readable Python code.
+
+4. **Applied Learning**
+
+   * Work through projects from [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/).
+   * Apply Python to everyday tasks like file handling, automation, or web scraping.
+
+5. **Deep Dive**
+
+   * Explore articles and tutorials on [Real Python](https://realpython.com/).
+   * Learn advanced concepts: OOP, decorators, generators, context managers.
+
+6. **Community and Practice**
+
+   * Solve problems on [GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/).
+   * Experiment with external packages on [PyPI](https://pypi.org/).
+   * Join discussions on Stack Overflow and GitHub projects.
+
+---
+
+## Author
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,vscode,git,github,linux,stackoverflow" />
-</p>
+  <img src="resources/images/rishabh.jpeg" width="180" style="border-radius:50%" alt="Rishabh"/>
+</p>  
+
+**Rishabh** — [GitHub Profile](https://github.com/rishabhkumaar)
 
 ---
 
-## 🎬 Preview
+## License
 
-<p align="center">
-  <img src="resources/images/rishabh.jpeg" width="250" style="border-radius:50%" alt="Rishabh"/>
-</p>
+This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-## 🤝 Contributing
-
-We 💙 contributions!
-
-1. Fork this repo
-2. Create a branch → `git checkout -b feature-name`
-3. Commit changes → `git commit -m "Added new topic/example"`
-4. Push → `git push origin feature-name`
-5. Create a Pull Request 🚀
-
----
-
-## 📌 Roadmap
-
-* Python Basics
-* Control Flow
-* Data Structures
-* Modules & Packages
-* OOP Concepts
-* Advanced Topics
-* Projects & Exercises
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabhkumaar&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhkumaar&theme=tokyonight" height="180em"/>
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rishabhkumaar/rishabhkumaar/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
-## 📜 License
-
-This repo is under the **[MIT License](LICENSE)**.
-
----
-
-<h3 align="center">  
-  ✨ Made with ❤️ by <a href="https://github.com/rishabhkumaar">Rishabh</a> to help learners master Python ✨  
-</h3>  
-
----
-
-Would you like me to also **add a clean "Quick Links" table (Basics → Advanced → Projects → Contribute)** at the top so people can navigate easily?
